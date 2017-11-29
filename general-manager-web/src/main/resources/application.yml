@@ -1,0 +1,12 @@
+server:
+  port: 8001
+
+spring:
+  freemarker:
+    cache: false
+    settings:
+      template_update_delay: 0
+#spring:
+#  thymeleaf:
+#    prefix: /templates/decorators
+#    suffix: .html
